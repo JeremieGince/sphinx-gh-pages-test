@@ -1,0 +1,13 @@
+static
+module.submodule.html
+module.html
+search.html
+objects.inv
+sources
+index.html
+.buildinfo
+.nojekyll
+modules.html
+searchindex.js
+py-modindex.html
+genindex.html
