@@ -14,9 +14,15 @@ class SubModule:
 		pass
 
 	def run(self):
+		"""
+		Run the module.
+		"""
 		pass
 
 	def __del__(self):
+		"""
+		Destructor.
+		"""
 		pass
 
 
