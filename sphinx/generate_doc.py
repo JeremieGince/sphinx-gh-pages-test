@@ -3,7 +3,7 @@ import os
 
 def generate_doc():
 	commands = [
-		r"sphinx-apidoc -f -o ./source ../src/neurotorch",
+		r"sphinx-apidoc -f -o ./source ../src/module",
 		r".\make clean html",
 		r".\make html",
 		# r"rmdir ../docs",
